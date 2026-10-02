@@ -1,0 +1,11 @@
+kboard-api/vendor/
+taskboard-api/node_modules/
+taskboard-api/storage/framework/
+tasboard-api/storage/logs/
+
+taskboard-react/node_modules/
+taskoard-react/dist/
+
+.DS_Store
+.vsco
+
